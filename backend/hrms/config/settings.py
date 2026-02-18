@@ -52,6 +52,8 @@ INSTALLED_APPS = [
     
     'users',
     'organization',
+    'leaves',
+    'attendance',
     'api',
 ]
 
