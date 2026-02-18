@@ -7,4 +7,7 @@ urlpatterns = [
     path('attendance/', include('attendance.urls')), 
     path('payroll/', include('payroll.urls')),
     path('recruitment/', include('recruitment.urls')),
+    path('training/', include('training.urls')),
+    path('performance/', include('performance.urls')),
+    path('communication/', include('communication.urls')),
 ]

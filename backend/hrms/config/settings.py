@@ -57,6 +57,8 @@ INSTALLED_APPS = [
     'payroll',
     'recruitment',
     'performance',
+    'training',
+    'communication',
     'api',
 ]
 
